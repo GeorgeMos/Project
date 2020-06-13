@@ -35,7 +35,8 @@ void ShoppingCart::removeItemOrdered(Item* item)
 
 void ShoppingCart::changeItemOrderedQuantity(Item* item, int quantity)
 {
-	orderList[item] = quantity;
+	removeItemOrdered(item);
+	addItemOrdered(item, quantity);
 }
 
 void ShoppingCart::showCart()

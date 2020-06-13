@@ -30,6 +30,7 @@ int main() {
 	Eshop shop = Eshop("PapperWorks", &bob);
 	Menu menu = Menu(&shop, &bob);
 	shop.addBuyer(&john);
+	shop.addBuyer(&nick);
 	shop.addItem(&pen1);
 	shop.addItem(&pen2);
 	shop.addItem(&pen3);

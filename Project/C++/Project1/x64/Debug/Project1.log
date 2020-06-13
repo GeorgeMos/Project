@@ -1,5 +1,7 @@
-﻿  Eshop.cpp
-C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\Eshop.cpp(195): warning C4715: 'Eshop::checkBuyer': not all control paths return a value
-C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\Eshop.cpp(126): warning C4715: 'Eshop::getBuyerByEmail': not all control paths return a value
-C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\Eshop.cpp(112): warning C4715: 'Eshop::getItemByld': not all control paths return a value
+﻿  Menu.cpp
+C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\Menu.cpp(147,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\Menu.cpp(207,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ShoppingCart.cpp
+C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\ShoppingCart.cpp(55,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
   Project1.vcxproj -> C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\x64\Debug\Project1.exe
