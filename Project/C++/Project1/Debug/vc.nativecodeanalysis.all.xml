@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\</FILEPATH>
+      <FILENAME>Buyer.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Buyer::buyerCategory' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Buyer::{ctor}</FUNCTION>
+    <DECORATED>??0Buyer@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Buyer::buyerCategory</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\</FILEPATH>
+      <FILENAME>User.h</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'User::postalCode' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>User::{ctor}</FUNCTION>
+    <DECORATED>??0User@@QAE@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>User::postalCode</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\user\Desktop\My_programs\C++ Programing\sem_project\Project1\Project1\</FILEPATH>
+      <FILENAME>Item.h</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Item::price' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Item::{ctor}</FUNCTION>
+    <DECORATED>??0Item@@QAE@XZ</DECORATED>
+    <FUNCLINE>32</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Item::price</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
